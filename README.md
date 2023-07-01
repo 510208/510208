@@ -27,16 +27,9 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+- ❓ Feel free to ask me any questions related to HTML and related technologies
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I write software often without sleep or food
 
 
 </td><td valign="top" width="50%">
@@ -106,15 +99,4 @@
 
 </td></tr></table>  
 
-<br/>  
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31s25zugovo4ezcahg6tmqhzay6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=510208&&style=flat-square)  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
