@@ -12,8 +12,8 @@
 </a>
 <a href="https://instagram.com/510208" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+</a>
+<img src=https://img.shields.io/static/v1?label=Donate+ME&message=0xfc6483e30bB86e2Ab87Eca75dBF5F55501A4F2BA&color=2ea44f&style=for-the-badge&logo=ethereum alt=instagram style="margin-bottom: 5px;" />
 
 
 
