@@ -1,5 +1,6 @@
-## Hey 👋, I'm 510208!  
-  
+<img width="900" alt="mybanner" src="https://github.com/user-attachments/assets/948e3231-ba54-4975-8ddb-d6dcd49212bd" style="border-radius: 5px;">
+
+<br>
 
 <a href="https://github.com/510208" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -13,39 +14,9 @@
 <a href="https://instagram.com/510208" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<img src=https://img.shields.io/static/v1?label=Donate+ME&message=0xfc6483e30bB86e2Ab87Eca75dBF5F55501A4F2BA&color=2ea44f&style=for-the-badge&logo=ethereum alt=instagram style="margin-bottom: 5px;" />
 
-
-
-### Glad to see you here!  
-# 之後要說打這裡  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- ❓ Feel free to ask me any questions related to HTML and related technologies
-
-- ⚡ Fun fact: I write software often without sleep or food
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
+## 平常在寫哪些語言
+<div>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -88,15 +59,8 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## GitHub 上的狀況
 
-<img src="https://github-readme-stats.vercel.app/api?username=510208&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=510208&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<img src="https://github-readme-stats.vercel.app/api?username=510208&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=510208&hide_border=true&layout=compact" align="left" style="width: 50%" />
 
 <br/>
