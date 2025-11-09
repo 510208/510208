@@ -1,4 +1,4 @@
-<img width="900" alt="mybanner" src="https://github.com/user-attachments/assets/948e3231-ba54-4975-8ddb-d6dcd49212bd" style="border-radius: 5px;">
+<img width="900" alt="mybanner" src="https://510208.github.io/510208/logos/0Header.png" style="border-radius: 5px;">
 
 <br>
 
@@ -11,9 +11,9 @@
 </a><a href="https://instagram.com/510208" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a></center></div>
 
-# 嗨！我是SamHacker
+# 嗨！我是 SamHacker
 
-嗨！我是 SamHacker，一個熱愛 Coding 的高中生。現年（2025年）16歲，善於運用 TypeScript、Python 等語言。最近在學習 Next.js、Vite、React、GSAP 等前端框架，也計畫要涉獵 Svelte、Vue 等框架。前端可能還算可以，但做後端就真的完全不行。
+嗨！我是 SamHacker，一個熱愛 Coding 的高中生。現年（2025 年）16 歲，善於運用 TypeScript、Python 等語言。最近在學習 Next.js、Vite、React、GSAP 等前端框架，也計畫要涉獵 Svelte、Vue 等框架。前端可能還算可以，但做後端就真的完全不行。
 
 未來可能會去學習 Laravel、Django 等後端框架，充實自己的能力。我對網頁前端設計、Python 腳本、AI 與 AIGC 等領域有些興趣。
 雖然技術仍然不足以稱為專家，但如果你也對這些領域有興趣，或許我們可以一起交流？
@@ -21,13 +21,14 @@
 - 🔭 我正在製作 [**CFBot**](https://github.com/510208/cfbot/) 與 [我的個人網站](https://510208.github.io/)
 - 🌱 我正在學習 **前端技術**
 - 🤝 既然你都錄過我的 GitHub 了，可以幫我按個免費的 **Follow** 嗎
-- 👨‍💻 所有我的專案你可以在 [GitHub上](https://github.com/510208/510208/tree/main) 找到
+- 👨‍💻 所有我的專案你可以在 [GitHub 上](https://github.com/510208/510208/tree/main) 找到
 - 📝 我常常在 [SamHacker Blog](https://samhacker.xyz) 寫文章
 - 📫 你可以使用 Discord 搜尋 `@samhacker` 來聯絡我
 - ⚡ 有趣的事實是，我在網路上就是個可愛ㄉ女孩紙
 - 🚨 我、不、是、男、娘
 
 ## Skills
+
 <div>  
 	<a href="https://react.dev/?uwu=true" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/React.png" alt="React" height="100" /></a>
 	<a href="https://www.figma.com/@samhacker" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/Figma.png" alt="Figma" height="100" /></a>
@@ -45,15 +46,13 @@
     <a href="https://discordapp.com/users/959977374471028779" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/Discord.png" alt="Discord" height="100" /></a>
     <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/Ubuntu.png" alt="Ubuntu" height="100" /></a>
     <a href="https://www.microsoft.com/zh-tw/windows/" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/Windows.png" alt="Windows" height="100" /></a>
-</div>  
+</div>
 
 <br/>
-
 
 ## GitHub Stats
 
 此處狀態圖由[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)製作
-
 
 <table>
 <tr>
