@@ -52,26 +52,28 @@
 
 ## GitHub Stats
 
-此處狀態圖由[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)製作
+此處狀態圖由 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)、[DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)製作
 
-<table>
+<table style="width: 100%;">
 <tr>
-	<td><a href="https://github.com/510208/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api?username=510208&show_icons=true&count_private=true&theme=transparent&hide_border=true&locale=zh-tw" align="left" style="width: 100%" />
-	</a></td>
-	<td><a href="https://github.com/510208/convoychat">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=510208&show_icons=true&theme=transparent&hide_border=true&layout=compact&hide=glsl,language2&locale=zh-tw" align="left" style="width: 100%" />
-	</a></td>
+	<td>
+		<img src="https://github-readme-stats.vercel.app/api?username=510208&show_icons=true&count_private=true&theme=transparent&hide_border=true&locale=zh-tw" align="center" style="width: 100%" alt="Code Status" />
+	</td>
+	<td>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=510208&show_icons=true&theme=transparent&hide_border=true&layout=compact&hide=glsl,language2&locale=zh-tw" align="center" style="width: 100%" alt="Top Languages" />
+	</td>
 </tr>
 <tr>
 	<td>
-		<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=510208&theme=transparent&hide_border=true&border_radius=10&locale=zh_Hant&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" />
-	</a></td>
+		<img src="https://streak-stats.demolab.com?user=510208&theme=transparent&hide_border=true&border_radius=10&locale=zh_Hant&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" align="center" style="width: 100%" alt="GitHub Streak" />
+	</td>
 	<td>
-		<h2>再等我找個可以放的東西吧</h2>
+		<h2>好像不知道能放啥</h2>
 	</td>
 </tr>
 </table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=510208&theme=github-compact&custom_title=SamHacker%27s%20Activity%20Graph&hide_border=true" align="center" style="width: 100%" alt="Activity Graph" />
 
 ## 寫扣的時間
 
