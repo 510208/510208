@@ -11,26 +11,24 @@
 </a><a href="https://instagram.com/510208" target="_blank"><img src="https://img.shields.io/badge/instagram-%23FF0069.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px; margin-left: 0px;" />
 </a><a href="https://discordapp.com/users/959977374471028779" target="_blank"><img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px; margin-left: 0px;" />
 </a><a href="https://bento.me/510208" target="_blank"><img src="https://img.shields.io/badge/Bento.me-%23ff8686.svg?&style=for-the-badge&logo=bento&logoColor=white" alt=discord style="margin-bottom: 5px; margin-left: 0px;" />
-</a><a href="https://github.com/510208/510208/blob/main/README_EN.md" target="_blank"><img src="https://img.shields.io/badge/English-%23000000.svg?&style=for-the-badge&logo=googletranslate&logoColor=white" alt=instagram style="margin-bottom: 5px; margin-left: 0px;" />
+</a><a href="https://github.com/510208/510208/blob/main/README.md" target="_blank"><img src="https://img.shields.io/badge/Taiwanese-%23000000.svg?&style=for-the-badge&logo=googletranslate&logoColor=white" alt=instagram style="margin-bottom: 5px; margin-left: 0px;" />
 </a></center></div>
-
 <br />
 
-<h1><center>嗨！我是 SamHacker</center></h1>
+<h1><center>Hi! I am SamHacker</center></h1>
 
-嗨！我是 SamHacker，一個熱愛 Coding 的高中生。現年（2025 年）16 歲，善於運用 TypeScript、Python 等語言。最近在學習 Next.js、Vite、React、GSAP 等前端框架，也計畫要涉獵 Svelte、Vue 等框架。前端可能還算可以，但做後端就真的完全不行。
+Hi! I am SamHacker, who is a high school student loving coding. I am 16 years old in 2025, and proficient in TypeScript, Python, and other languages. Recently, I have been learning front-end frameworks such as Next.js, Vite, React, and GSAP, and I also plan to explore frameworks like Svelte and Vue. My front-end skills are decent, but I am really bad at back-end development.
 
-未來可能會去學習 Laravel、Django 等後端框架，充實自己的能力。我對網頁前端設計、Python 腳本、AI 與 AIGC 等領域有些興趣。
-雖然技術仍然不足以稱為專家，但如果你也對這些領域有興趣，或許我們可以一起交流？
+In the future, I might learn back-end frameworks like Laravel and Django to enhance my skills. I have some interests in web front-end design, Python scripting, AI, and AIGC. Although I am not yet an expert, if you are also interested in these fields, maybe we can exchange ideas?
 
-- 🔭 我正在製作 [**CFBot**](https://github.com/510208/cfbot/) 與 [我的個人網站](https://510208.github.io/)
-- 🌱 我正在學習 **前端技術**
-- 🤝 既然你都錄過我的 GitHub 了，可以幫我按個免費的 **Follow** 嗎
-- 👨‍💻 所有我的專案你可以在 [GitHub 上](https://github.com/510208/510208/tree/main) 找到
-- 📝 我常常在 [SamHacker Blog](https://samhacker.xyz) 寫文章
-- 📫 你可以使用 Discord 搜尋 `@samhacker` 來聯絡我
-- ⚡ 有趣的事實是，我在網路上就是個可愛ㄉ女孩紙
-- 🚨 我、不、是、男、娘
+- 🔭 I am currently working on [**CFBot**](https://github.com/510208/cfbot/) and [my personal website](https://510208.github.io/)
+- 🌱 I am currently learning **front-end technologies**
+- 🤝 Since you have visited my GitHub, could you please give me a free **Follow**?
+- 👨‍💻 You can find all my projects on [GitHub](https://github.com/510208/510208/tree/main)
+- 📝 I often write articles on [SamHacker Blog](https://samhacker.xyz)
+- 📫 You can contact me on Discord by searching `@samhacker`
+- ⚡ An interesting fact is that I am a cute girl online
+- 🚨 I am not an Otokonoko!!
 
 ## Skills
 
@@ -57,30 +55,30 @@
 
 ## GitHub Stats
 
-此處狀態圖由 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)、[DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)製作
+The status badge is made from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)、[DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
 
 <table style="width: 100%;">
 <tr>
 	<td>
-		<img src="https://github-readme-stats.vercel.app/api?username=510208&show_icons=true&count_private=true&theme=transparent&hide_border=true&locale=zh-tw" align="center" style="width: 100%" alt="Code Status" />
+		<img src="https://github-readme-stats.vercel.app/api?username=510208&show_icons=true&count_private=true&theme=transparent&hide_border=true" align="center" style="width: 100%" alt="Code Status" />
 	</td>
 	<td>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=510208&show_icons=true&theme=transparent&hide_border=true&layout=compact&hide=glsl,language2&locale=zh-tw" align="center" style="width: 100%" alt="Top Languages" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=510208&show_icons=true&theme=transparent&hide_border=true&layout=compact&hide=glsl,language2" align="center" style="width: 100%" alt="Top Languages" />
 	</td>
 </tr>
 <tr>
 	<td>
-		<img src="https://streak-stats.demolab.com?user=510208&theme=transparent&hide_border=true&border_radius=10&locale=zh_Hant&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" align="center" style="width: 100%" alt="GitHub Streak" />
+		<img src="https://streak-stats.demolab.com?user=510208&theme=transparent&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" align="center" style="width: 100%" alt="GitHub Streak" />
 	</td>
 	<td>
-		<center>好像不知道能放啥awa</center>
+		<h2>awa, I don't know what I can place at there...</h2>
 	</td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=510208&theme=github-compact&custom_title=SamHacker%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E7%9A%84%E6%B4%BB%E5%8B%95%E7%8B%80%E6%85%8B&hide_border=true" align="center" style="width: 100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=510208&theme=github-compact&custom_title=SamHacker%27s%20Activity%20Graph&hide_border=true" align="center" style="width: 100%" alt="Activity Graph" />
 
-## 寫扣的時間
+## The time I spend on coding
 
 <!--START_SECTION:waka-->
 
