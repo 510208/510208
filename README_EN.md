@@ -1,4 +1,4 @@
-<center><img width="900" alt="mybanner" src="https://510208.github.io/510208/Header.png" style="border-radius: 5px;"></center>
+<center><img width="900" alt="mybanner" src="https://510208.github.io/510208/Header_en.png" style="border-radius: 5px;"></center>
 
 <br>
 
