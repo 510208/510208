@@ -55,6 +55,8 @@
 
 <br/>
 
+![Google Gemini Educator](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/168602163)
+
 ## GitHub Stats
 
 此處狀態圖由 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)、[DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)製作
