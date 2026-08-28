@@ -55,15 +55,15 @@ In the future, I might learn back-end frameworks like Laravel and Django to enha
 
 ## GitHub Stats
 
-The status badge is made from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)、[DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
+The status badge is made from [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)、[DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
 
 <table style="width: 100%;">
 <tr>
 	<td>
-		<img src="https://github-readme-stats.vercel.app/api?username=510208&show_icons=true&count_private=true&theme=transparent&hide_border=true" align="center" style="width: 100%" alt="Code Status" />
+		<img src="https://github-stats-extended.vercel.app/api?username=510208&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" align="center" style="width: 100%" alt="Code Status" />
 	</td>
 	<td>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=510208&show_icons=true&theme=transparent&hide_border=true&layout=compact&hide=glsl,language2" align="center" style="width: 100%" alt="Top Languages" />
+		<img src="https://github-stats-extended.vercel.app/api/top-langs?username=510208&layout=donut&langs_count=10&theme=ayu-mirage&hide_border=true" align="center" style="width: 100%" alt="Top Languages" />
 	</td>
 </tr>
 <tr>
@@ -71,12 +71,12 @@ The status badge is made from [anuraghazra/github-readme-stats](https://github.c
 		<img src="https://streak-stats.demolab.com?user=510208&theme=transparent&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" align="center" style="width: 100%" alt="GitHub Streak" />
 	</td>
 	<td>
-		<h2>awa, I don't know what I can place at there...</h2>
+		<img src="https://github-stats-extended.vercel.app/api/wakatime?username=SamHacker&langs_count=10&theme=ayu-mirage&hide-border=true" align="center" style="width: 100%" align="center" style="width: 100%" alt="Wakatime Stats"  />
 	</td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=510208&theme=github-compact&custom_title=SamHacker%27s%20Activity%20Graph&hide_border=true" align="center" style="width: 100%" alt="Activity Graph" />
+<p align="center"><picture><img src="https://raw.githubusercontent.com/510208/510208/refs/heads/main/profile-3d-contrib/profile-night-green.svg" align="center" style="width: 70%" alt="Activity Graph" /></picture></p>
 
 ## The time I spend on coding
 
