@@ -64,7 +64,7 @@
 <table style="width: 100%;">
 <tr>
 	<td>
-		<img src="https://github-readme-stats.vercel.app/api?username=510208&show_icons=true&count_private=true&theme=transparent&hide_border=true&locale=zh-tw" align="center" style="width: 100%" alt="Code Status" />
+		<img src="https://github-stats-extended.vercel.app/api?username=510208&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=ayu-mirage&locale=zh-tw" align="center" style="width: 100%" alt="Code Status" />
 	</td>
 	<td>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=510208&show_icons=true&theme=transparent&hide_border=true&layout=compact&hide=glsl,language2&locale=zh-tw" align="center" style="width: 100%" alt="Top Languages" />
