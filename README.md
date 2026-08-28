@@ -1,4 +1,4 @@
-<center><img width="900" alt="mybanner" src="https://510208.github.io/510208/Header.png" style="border-radius: 5px;"></center>
+<img width="900" alt="mybanner" src="https://510208.github.io/510208/Header.png" style="border-radius: 5px;">
 
 <br>
 
@@ -80,7 +80,7 @@
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=510208&theme=github-compact&custom_title=SamHacker%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E7%9A%84%E6%B4%BB%E5%8B%95%E7%8B%80%E6%85%8B&hide_border=true" align="center" style="width: 100%" alt="Activity Graph" />
+<p align="center"><picture><img src="https://raw.githubusercontent.com/510208/510208/refs/heads/main/profile-3d-contrib/profile-night-green.svg" align="center" style="width: 70%" alt="Activity Graph" /></picture></p>
 
 ## 寫扣的時間
 
