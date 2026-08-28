@@ -59,15 +59,15 @@
 
 ## GitHub Stats
 
-此處狀態圖由 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)、[DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)製作
+此處狀態圖由 [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)、[DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)製作
 
 <table style="width: 100%;">
 <tr>
 	<td>
-		<img src="https://github-stats-extended.vercel.app/api?username=510208&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=ayu-mirage&locale=zh-tw" align="center" style="width: 100%" alt="Code Status" />
+		<img src="https://github-stats-extended.vercel.app/api?username=510208&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&locale=zh-tw" align="center" style="width: 100%" alt="Code Status" />
 	</td>
 	<td>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=510208&show_icons=true&theme=transparent&hide_border=true&layout=compact&hide=glsl,language2&locale=zh-tw" align="center" style="width: 100%" alt="Top Languages" />
+		<img src="https://github-stats-extended.vercel.app/api/top-langs?username=510208&layout=donut&langs_count=10&theme=ayu-mirage&hide_border=true&locale=zh-tw" align="center" style="width: 100%" alt="Top Languages" />
 	</td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@
 		<img src="https://streak-stats.demolab.com?user=510208&theme=transparent&hide_border=true&border_radius=10&locale=zh_Hant&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" align="center" style="width: 100%" alt="GitHub Streak" />
 	</td>
 	<td>
-		<center>好像不知道能放啥awa</center>
+		<img src="https://github-stats-extended.vercel.app/api/wakatime?username=SamHacker&langs_count=10&theme=ayu-mirage&hide-border=true&locale=zh-tw" align="center" style="width: 100%" align="center" style="width: 100%" alt="Wakatime Stats"  />
 	</td>
 </tr>
 </table>
